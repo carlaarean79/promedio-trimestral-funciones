@@ -1,0 +1,16 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+}
+h1 {
+  color: chartreuse;
+}
+button {
+  size-adjust: 50px;
+  color: rgb(255, 0, 149);
+  border-style: double;
+}
+p {
+  color: darkorange;
+  size: 20px;
+  font-style: oblique;
+}
